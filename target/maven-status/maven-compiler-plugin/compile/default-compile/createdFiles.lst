@@ -1,0 +1,4 @@
+com/javi/configserver/ConfigServerApplication.class
+com/javi/configserver/model/RemoteConfigDto.class
+com/javi/configserver/service/ConfigService.class
+com/javi/configserver/controller/ConfigController.class
